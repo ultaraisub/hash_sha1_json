@@ -21,6 +21,54 @@
 
 # 詳細
 ## test04
+```
+└── test
+      └── test04
+            ├── a
+            │   ├── aa
+            │   │    └── aa.txt
+            │   ├── ab
+            │   │    └── ab.txt
+            │   └── a.txt
+            ├── b
+            │   ├── ba
+            │   │    ├── baa
+            │   │    │    └── baa.txt
+            │   │    ├── bab
+            │   │    │    └── bab.txt
+            │   │    └── ba.txt
+            │   ├── bb
+            │   │    ├── bba
+            │   │    │    └── bba.txt
+            │   │    ├── bbb
+            │   │    │    └── bbb.txt
+            │   │    └── bb.txt
+            │   └── b.txt
+            ├── c
+            │   ├── ca
+            │   │    ├── caa
+            │   │    │    ├── caaa
+            │   │    │    │     ├── caaaa
+            │   │    │    │     │    └── caaaa.txt
+            │   │    │    │     ├── caaab
+            │   │    │    │     │    └── caaab.txt
+            │   │    │    │     └── caaa.txt
+            │   │    │    ├── caab
+            │   │    │    │     ├── caaba
+            │   │    │    │     │     └── caaba.txt
+            │   │    │    │     ├── caabb
+            │   │    │    │     │     └── caabb.txt
+            │   │    │    │     └── caab.txt
+            │   │    │    └── caa.txt
+            │   │    └── ca.txt
+            │   ├── cb
+            │   │    └── cb.txt
+            │   └── c.txt
+            └── d
+                └── d.txt
+
+```
+
 
 ## test05
 
